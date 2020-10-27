@@ -1,4 +1,3 @@
-let divide = (parameter1, parameter2) => parameter1 / parameter2;
-
-divide(200, 100)
-
+const divide = function() {
+  return 2000/100
+}
